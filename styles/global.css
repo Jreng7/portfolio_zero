@@ -50,3 +50,7 @@ body {
   background: var(--background-card);
   box-shadow: var(--shadow-card);
 }
+
+.subtitle {
+  font-size: 28px;
+}
