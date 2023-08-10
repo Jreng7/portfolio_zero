@@ -1,3 +1,5 @@
+@import url('./user.css');
+
 * {
   margin: 0;
   padding: 0;
@@ -48,8 +50,4 @@ section {
   border-radius: 12px;
   background: var(--background-card);
   box-shadow: var(--shadow-card);
-}
-
-.user {
-  
 }
